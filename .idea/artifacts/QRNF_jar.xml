@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="QRNF:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/QRNF_jar</output-path>
-    <root id="archive" name="QRNF.jar">
-      <element id="module-output" name="QRNF" />
-    </root>
-  </artifact>
-</component>

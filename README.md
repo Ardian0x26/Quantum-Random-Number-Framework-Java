@@ -21,6 +21,9 @@ backend: Is the IBMQ quantum computer server, which you can choose here:
 
 https://quantum-computing.ibm.com/services/resources?tab=systems
 
+**JAVA Version 14.0.2**
+**PYTHON Version 3.10**
+
 
 
 
